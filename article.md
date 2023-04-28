@@ -42,34 +42,6 @@ To get started with Python, you will need to download and install the Python sof
 
 To write code in Python, you can use any text editor or integrated development environment (IDE). Some popular IDEs for Python include IDLE (the built-in Python IDE), PyCharm, and Visual Studio Code.
 
-### Python Tutorials
-
-There are a lot of great Python tutorials out there for beginners! Here are a few that are highly recommended:
-
-1. Codecademy: Codecademy offers an interactive, online course on Python. It covers the basics of Python syntax and introduces concepts like data types, variables, and control flow.
-
-2. Python.org: The official Python website offers a comprehensive tutorial that covers everything from basic syntax to more advanced topics like object-oriented programming.
-
-3. Automate the Boring Stuff with Python: This book by Al Sweigart is a great resource for learning Python in the context of practical projects, like automating tasks or working with data.
-
-4. Learn Python the Hard Way: Don't let the name fool you - this book by Zed A. Shaw is a highly regarded resource for beginners that covers the basics of Python syntax and programming concepts.
-
-5. Python for Everybody: This online course by Dr. Charles Severance from the University of Michigan covers the basics of Python programming, including data types, functions, and control flow. It also includes projects and quizzes to help you solidify your understanding.
-
-6. edX: edX offers a variety of Python courses for beginners, including an introductory course from Microsoft and a course on Python programming fundamentals from the University of California, Berkeley.
-
-These are just a few of the many great resources out there for learning Python. Ultimately, the best tutorial for you will depend on your learning style and preferences, so don't be afraid to try a few different options to find what works best for you.
-
-## Python Libraries
-Python has a wide range of libraries available that provide additional functionality for different tasks. Some of the most popular libraries include:
-
-| **Library** | Description |
-|:----------- | :-----------|
-|**NumPy**        | A library for working with arrays and matrices.|
-|**Pandas**       | A library for working with data frames and data analysis.|
-|**Matplotlib**   | A library for creating visualizations and plots.|
-|**Scikit-learn**  | A library for machine learning and data mining.|
-
 
 ## Python Functions
 
@@ -96,12 +68,14 @@ Python has a variety of built-in functions that can be used to perform a wide ra
 |`min()`| The _min_ function is used to find the minimum value in a list or a string.|
 |`max()`| The _max_ function is used to find the maximum value in a list or a string.|
 
+
 ## Conclusion
 
 Python is a powerful, high-level programming language that is widely used in many different fields. Its simple, easy-to-read syntax makes it an ideal choice for beginners and experts alike, and its large community of developers ensures that there is always support and resources available. With a wide range of libraries available for different tasks, Python is a versatile choice for any programmer.
 
 As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 >Python is an easy-to-use programming language for people who want to express concepts in code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's why I love it.
+
 
 ## Resources
 
